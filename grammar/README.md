@@ -18,6 +18,11 @@ check the answer key at the bottom of each page.
 | 6 | [Prepositions: in / on / at / to](06-prepositions.md) | "Explain me this" → "Explain this **to me**" |
 | 7 | [Modals: can / could / should / must](07-modals.md) | Polite requests & advice |
 
+## 🎓 Advanced grammar
+Finished the basics? Level up with the **[Advanced grammar section](advanced/README.md)** —
+conditionals, passive voice, reported speech, subjunctive, gerunds/infinitives, relative
+clauses, countable/uncountable deep dive, and developer phrasal verbs.
+
 ## How each lesson works
 1. **🔹 The rule** — 2–3 lines, no theory dump.
 2. **🔹 Examples** — a few, dev-themed.

@@ -13,18 +13,28 @@
 
 ---
 
-## ✍️ Practice (choose will / going to / -ing, say out loud)
+## ✍️ Practice (choose *will*, *going to*, or *-ing*, then say it out loud)
 
-1. Don't worry, I ___ (help) you with that bug. *(deciding now)*
-2. Next sprint we ___ (migrate) to the new database. *(planned)*
-3. I ___ (meet) the client at 4 pm. *(arrangement)*
-4. Today I ___ (do / doing) the frontend. → fix this: "Today I will ___ the frontend."
+1. Don't worry, I ___ (help) you with that bug.
+2. Next sprint we ___ (migrate) to the new database.
+3. I ___ (meet) the client at 4 pm.
+4. Today I ___ (do) the frontend.
 5. She ___ (not / be) in the office tomorrow.
 6. I think it ___ (take) two days.
+7. We ___ (launch) the beta next month — it's already planned.
+8. The call ___ (start) at 3; I ___ (join) from home.
+9. OK fine, I ___ (review) your PR now.
+10. They ___ (not / support) this version after June.
+11. I'm sure the tests ___ (pass) this time.
+12. We ___ (hire) two more developers this quarter.
+13. Hold on, I ___ (grab) the logs for you.
+14. By next week I ___ (be) done with this module.
 
----
+<details>
+<summary>✅ Show answer key</summary>
 
-## ✅ Answer key
-1. **will help** 2. **are going to migrate** 3. **am meeting** 4. **do** ("Today I will **do** the frontend") 5. **will not (won't) be** 6. **will take**
+1. **will help** 2. **are going to migrate** 3. **am meeting** 4. **will do** 5. **won't be** 6. **will take** 7. **are going to launch** 8. **starts … will join** (or "am going to join") 9. **will review** 10. **aren't going to support** 11. **will pass** 12. **are going to hire** 13. **will grab** 14. **will be**
+
+</details>
 
 ➡️ Next: [Lesson 6 — Prepositions](06-prepositions.md)

@@ -14,7 +14,7 @@
 
 ---
 
-## ✍️ Practice (put the verb in past simple, say out loud)
+## ✍️ Practice (put the verb in past simple, say it out loud)
 
 1. Yesterday I ___ (complete) the API.
 2. Last sprint we ___ (release) version 2.0.
@@ -24,10 +24,22 @@
 6. ___ you ___ (push) your changes?
 7. He ___ (go) to the client meeting.
 8. I ___ (make) a mistake in the config.
+9. The build ___ (fail) three times yesterday.
+10. They ___ (not / review) my pull request.
+11. ___ the deployment ___ (work)?
+12. I ___ (spend) two hours on that bug.
+13. We ___ (migrate) the database last weekend.
+14. She ___ (send) me the logs.
+15. The team ___ (meet) at 10 yesterday.
+16. I ___ (not / understand) the requirement at first.
+17. He ___ (break) the build with that commit.
+18. ___ you ___ (test) it before merging?
 
----
+<details>
+<summary>✅ Show answer key</summary>
 
-## ✅ Answer key
-1. **completed** 2. **released** 3. **wrote** 4. **fixed** 5. **did not (didn't) finish** 6. **Did** you **push** 7. **went** 8. **made**
+1. **completed** 2. **released** 3. **wrote** 4. **fixed** 5. **didn't finish** 6. **Did … push** 7. **went** 8. **made** 9. **failed** 10. **didn't review** 11. **Did … work** 12. **spent** 13. **migrated** 14. **sent** 15. **met** 16. **didn't understand** 17. **broke** 18. **Did … test**
+
+</details>
 
 ➡️ Next: [Lesson 4 — Present perfect & "since / for"](04-present-perfect-since-for.md)

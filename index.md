@@ -59,6 +59,7 @@ A practical, **speaking-first** English course — built especially for
 
 ### 📐 Grammar (short & simple)
 - [Grammar lessons index](grammar/README.md)
+- [🎓 Advanced grammar](grammar/advanced/README.md)
 
 ### 📖 Reference
 - [Common mistakes Hindi speakers make](reference/common-mistakes-hindi-speakers.md)

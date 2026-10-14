@@ -56,6 +56,7 @@ software developers** who are strong at coding but want to break the
 
 ### 📐 Grammar (short & simple, with practice)
 - [Grammar lessons index](grammar/README.md) — short rules + separate practice exercises
+- [🎓 Advanced grammar](grammar/advanced/README.md) — conditionals, passive, reported speech, subjunctive, and more
 
 ### 📖 Reference (look up anytime)
 - [Common mistakes Hindi speakers make](reference/common-mistakes-hindi-speakers.md)
