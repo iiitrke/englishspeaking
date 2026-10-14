@@ -54,6 +54,12 @@ A practical, **speaking-first** English course — built especially for
 - [4. Small talk with team & clients](levels/b2-fluency/04-small-talk.md)
 - [✅ B2 Self-check](levels/b2-fluency/self-check.md)
 
+### 🗓️ 30-Day Plan
+- [Full 30-day English speaking plan](30-days/README.md)
+
+### 📐 Grammar (short & simple)
+- [Grammar lessons index](grammar/README.md)
+
 ### 📖 Reference
 - [Common mistakes Hindi speakers make](reference/common-mistakes-hindi-speakers.md)
 - [Pronunciation guide](reference/pronunciation-guide.md)

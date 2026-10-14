@@ -51,6 +51,12 @@ software developers** who are strong at coding but want to break the
 - [4. Small talk with team & clients](levels/b2-fluency/04-small-talk.md)
 - [✅ B2 Self-check](levels/b2-fluency/self-check.md)
 
+### 🗓️ 30-Day Plan (read one page a day)
+- [Full 30-day English speaking plan](30-days/README.md) — day-by-day, grammar + speaking + exercises
+
+### 📐 Grammar (short & simple, with practice)
+- [Grammar lessons index](grammar/README.md) — short rules + separate practice exercises
+
 ### 📖 Reference (look up anytime)
 - [Common mistakes Hindi speakers make](reference/common-mistakes-hindi-speakers.md)
 - [Pronunciation guide](reference/pronunciation-guide.md)
