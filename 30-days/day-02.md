@@ -21,7 +21,12 @@ Add a / an / the / — :
 3. I need ___ hour.
 4. We use ___ Git.
 
-**Answers:** 1. **an** · 2. **The** · 3. **an** · 4. **—**
+<details>
+<summary>✅ Show answers</summary>
+
+1. **an** · 2. **The** · 3. **an** · 4. **—**
+
+</details>
 
 ## 🎯 Daily mission
 Describe 5 objects on your desk out loud, each with the correct article: "This is **a** mouse. This is **the** laptop I use for work…"

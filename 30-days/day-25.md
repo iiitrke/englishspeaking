@@ -12,11 +12,16 @@ Modal + **base verb**: "**Could** you **review** this?" (NOT "could to review").
 Full lesson: [Grammar · Modals](../grammar/07-modals.md)
 
 ## ✍️ Exercise (say out loud, then check)
-1. "___ you help me, please?" *(polite)*
-2. "We ___ write tests." *(advice)*
-3. "You ___ never push to main." *(rule)*
+1. "___ you help me, please?"
+2. "We ___ write tests."
+3. "You ___ never push to main."
 
-**Answers:** 1. **Could** · 2. **should** · 3. **must**
+<details>
+<summary>✅ Show answers</summary>
+
+1. **Could** · 2. **should** · 3. **must**
+
+</details>
 
 ## 🎯 Daily mission
 Turn 3 commands into polite requests out loud: "Give me the file" → "Could you send me the file, please?"

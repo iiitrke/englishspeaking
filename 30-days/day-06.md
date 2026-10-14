@@ -15,7 +15,12 @@
 2. ❌ "I am having 4 years experience." → ✅ ___
 3. ❌ "Daily I am going to office." → ✅ ___
 
-**Answers:** 1. "I'm Sanjay." · 2. "I **have** 4 years **of** experience." · 3. "I **go** to the office **every day**."
+<details>
+<summary>✅ Show answers</summary>
+
+1. "I'm Sanjay." · 2. "I **have** 4 years **of** experience." · 3. "I **go** to the office **every day**."
+
+</details>
 
 ## 🎯 Daily mission
 Listen to today's recordings. Write down ONE mistake you keep making. That's your focus for next week.

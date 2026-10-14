@@ -14,9 +14,14 @@ Full lesson: [B2 · Explaining your code](../levels/b2-fluency/01-explaining-cod
 ## ✍️ Exercise (say out loud, then check)
 1. ❌ "This code is doing the handling of the request." → ✅ ___
 2. ❌ "I have did the changes." → ✅ ___
-3. "The ___ is simplicity versus speed." (trade-off)
+3. "The ___ is simplicity versus speed."
 
-**Answers:** 1. "This code **handles** the request." · 2. "I **made** the changes." · 3. **trade-off**
+<details>
+<summary>✅ Show answers</summary>
+
+1. "This code **handles** the request." · 2. "I **made** the changes." · 3. **trade-off**
+
+</details>
 
 ## 🎯 Daily mission
 Pick a REAL class/method you wrote. Explain it out loud: the idea, one decision, one trade-off. Record it.

@@ -13,10 +13,15 @@ Full lesson: [B2 · Giving opinions](../levels/b2-fluency/02-giving-opinions.md)
 
 ## ✍️ Exercise (say out loud, then check)
 1. ❌ "According to me, it's slow." → ✅ ___
-2. "I'd ___ we write tests first." (suggest)
-3. "The way I ___ it, …" (see)
+2. "I'd ___ we write tests first."
+3. "The way I ___ it, …"
 
-**Answers:** 1. "**In my opinion**, it's slow." · 2. **suggest** · 3. **see**
+<details>
+<summary>✅ Show answers</summary>
+
+1. "**In my opinion**, it's slow." · 2. **suggest** · 3. **see**
+
+</details>
 
 ## 🎯 Daily mission
 Give your opinion out loud on: "Should every method have a unit test?" Speak for 1 minute.

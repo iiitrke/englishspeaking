@@ -15,7 +15,12 @@ v/w & th · word stress · future (will / going to) · "In my opinion" · "I see
 2. ❌ "Today I will doing it." → ✅ ___
 3. ❌ "I have did the changes." → ✅ ___
 
-**Answers:** 1. "In my opinion…" · 2. "Today I will **do** it." · 3. "I **made** the changes."
+<details>
+<summary>✅ Show answers</summary>
+
+1. "In my opinion…" · 2. "Today I will **do** it." · 3. "I **made** the changes."
+
+</details>
 
 ## 🎯 Daily mission
 Listen back. Is your word stress clearer than Day 16? 🎉 Week 3 done — career week is next!

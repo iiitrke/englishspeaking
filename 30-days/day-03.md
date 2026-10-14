@@ -14,11 +14,16 @@ Full lesson: [A2 · Daily routine](../levels/a2-foundation/02-daily-routine.md)
 
 ## ✍️ Exercise (say out loud, then check)
 Choose the right form:
-1. I ___ (go / am going) to the office every day.
-2. I usually ___ (start / am starting) at 10.
-3. Right now I ___ (write / am writing) this exercise.
+1. I ___ to the office every day.
+2. I usually ___ at 10.
+3. Right now I ___ this exercise.
 
-**Answers:** 1. **go** · 2. **start** · 3. **am writing**
+<details>
+<summary>✅ Show answers</summary>
+
+1. **go** · 2. **start** · 3. **am writing**
+
+</details>
 
 ## 🎯 Daily mission
 Record your real daily routine (5+ sentences). Listen back: did you pause too much? Say it again, smoother.

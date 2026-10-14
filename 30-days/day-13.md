@@ -14,9 +14,14 @@ Full lesson: [B1 · Everyday situations](../levels/b1-conversation/04-everyday-s
 ## ✍️ Exercise (say out loud, then check)
 1. ❌ "Give me one coffee." → ✅ ___
 2. ❌ "You are coming, no?" → ✅ ___
-3. "What would you ___ ?" (recommend)
+3. "What would you ___ ?"
 
-**Answers:** 1. "Could I **get** a coffee, please?" · 2. "You're coming, **right**?" · 3. **recommend**
+<details>
+<summary>✅ Show answers</summary>
+
+1. "Could I **get** a coffee, please?" · 2. "You're coming, **right**?" · 3. **recommend**
+
+</details>
 
 ## 🎯 Daily mission
 Role-play ordering a meal out loud (both roles). Then do a shopping scene.

@@ -13,10 +13,15 @@ Full lesson: [B1 · Standup](../levels/b1-conversation/01-standup.md)
 
 ## ✍️ Exercise (say out loud, then check)
 1. "Yesterday I ___ (complete) the API."
-2. "Today I'll ___ (do / doing) the tests."
-3. "I've been stuck ___ (since / for) two days."
+2. "Today I'll ___ the tests."
+3. "I've been stuck ___ two days."
 
-**Answers:** 1. **completed** · 2. **do** · 3. **for**
+<details>
+<summary>✅ Show answers</summary>
+
+1. **completed** · 2. **do** · 3. **for**
+
+</details>
 
 ## 🎯 Daily mission
 Give your REAL standup update out loud in exactly 3 sentences (yesterday / today / blockers). Record it.

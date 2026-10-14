@@ -14,9 +14,14 @@ Full lesson: [B1 · Asking for help](../levels/b1-conversation/03-asking-for-hel
 ## ✍️ Exercise (say out loud, then check)
 1. ❌ "Can you explain me this?" → ✅ ___
 2. ❌ "I have a doubt." → ✅ ___
-3. "Just to ___ , you mean X, right?" (confirm)
+3. "Just to ___ , you mean X, right?"
 
-**Answers:** 1. "Can you explain this **to me**?" · 2. "I have a **question**." · 3. **confirm**
+<details>
+<summary>✅ Show answers</summary>
+
+1. "Can you explain this **to me**?" · 2. "I have a **question**." · 3. **confirm**
+
+</details>
 
 ## 🎯 Daily mission
 Think of a real thing you're stuck on. Out loud: ask for help in one polite sentence, then confirm the answer.

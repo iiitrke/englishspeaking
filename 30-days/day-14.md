@@ -15,7 +15,12 @@ Past simple (yesterday I **did**) · present perfect + for/since · "explain **t
 2. ❌ "I am not able to listen you." → ✅ ___
 3. ❌ "I have a doubt." → ✅ ___
 
-**Answers:** 1. "I've been stuck **for** 2 days." · 2. "I **can't hear** you." · 3. "I have a **question**."
+<details>
+<summary>✅ Show answers</summary>
+
+1. "I've been stuck **for** 2 days." · 2. "I **can't hear** you." · 3. "I have a **question**."
+
+</details>
 
 ## 🎯 Daily mission
 Compare today's standup recording to Day 8. Smoother? 🎉 Halfway done — Week 2 complete!

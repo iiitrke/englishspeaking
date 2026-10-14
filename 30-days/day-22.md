@@ -18,7 +18,12 @@ Full lesson: [Grammar · Prepositions](../grammar/06-prepositions.md)
 3. Please explain it ___ me.
 4. He's good ___ Java.
 
-**Answers:** 1. **at** · 2. **on** · 3. **to** · 4. **at**
+<details>
+<summary>✅ Show answers</summary>
+
+1. **at** · 2. **on** · 3. **to** · 4. **at**
+
+</details>
 
 ## 🎯 Daily mission
 Say your weekly schedule out loud using at/on/in correctly (meetings, deploy days, deadlines).

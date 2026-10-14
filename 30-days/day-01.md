@@ -15,10 +15,15 @@ Full lesson: [A2 · Greetings & introductions](../levels/a2-foundation/01-greeti
 ## ✍️ Exercise (say out loud, then check)
 Fill the blank:
 1. "I'm ___ backend developer."
-2. "I ___ five years of experience." (have / am having)
-3. "___ Sanjay." (Myself / I'm)
+2. "I ___ five years of experience."
+3. "___ Sanjay."
 
-**Answers:** 1. **a** · 2. **have** · 3. **I'm**
+<details>
+<summary>✅ Show answers</summary>
+
+1. **a** · 2. **have** · 3. **I'm**
+
+</details>
 
 ## 🎯 Daily mission
 Introduce yourself out loud **3 times** in the mirror. Save the recording — you'll compare it on Day 30.

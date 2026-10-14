@@ -15,9 +15,14 @@ Full lesson: [B2 · Interview English](../levels/b2-fluency/03-interview-english
 ## ✍️ Exercise (say out loud, then check)
 1. ❌ "I am working here since 4 years." → ✅ ___
 2. ❌ "I did my graduation in 2020." → ✅ ___
-3. "I'm particularly ___ in backend." (strong)
+3. "I'm particularly ___ in backend."
 
-**Answers:** 1. "I **have been working** here **for** 4 years." · 2. "I **graduated** in 2020." · 3. **strong**
+<details>
+<summary>✅ Show answers</summary>
+
+1. "I **have been working** here **for** 4 years." · 2. "I **graduated** in 2020." · 3. **strong**
+
+</details>
 
 ## 🎯 Daily mission
 Record your own "Tell me about yourself" (60–90 sec). Keep it: role → experience → strengths → focus now.

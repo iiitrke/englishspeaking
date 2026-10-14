@@ -17,7 +17,12 @@ Full lesson: [Grammar · Present perfect & since/for](../grammar/04-present-perf
 2. She ___ (be) here ___ January.
 3. I ___ (use) Docker before.
 
-**Answers:** 1. **have worked … for** · 2. **has been … since** · 3. **have used**
+<details>
+<summary>✅ Show answers</summary>
+
+1. **have worked … for** · 2. **has been … since** · 3. **have used**
+
+</details>
 
 ## 🎯 Daily mission
 Say 4 sentences about your experience using *for* and *since* correctly. Record and check.

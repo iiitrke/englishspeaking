@@ -13,11 +13,16 @@
 Full lesson: [Grammar · Future](../grammar/05-future.md)
 
 ## ✍️ Exercise (say out loud, then check)
-1. Don't worry, I ___ (help) you. *(deciding now)*
-2. Next week we ___ (migrate) the DB. *(planned)*
+1. Don't worry, I ___ (help) you.
+2. Next week we ___ (migrate) the DB.
 3. ❌ "Today I will doing frontend." → ✅ ___
 
-**Answers:** 1. **will help** · 2. **are going to migrate** · 3. "Today I will **do** the frontend."
+<details>
+<summary>✅ Show answers</summary>
+
+1. **will help** · 2. **are going to migrate** · 3. "Today I will **do** the frontend."
+
+</details>
 
 ## 🎯 Daily mission
 Say your plans for this week (3 sentences with *going to*) and 2 on-the-spot decisions (with *will*).

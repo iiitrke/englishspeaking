@@ -18,7 +18,12 @@ Full lesson: [Grammar · Past simple](../grammar/03-past-simple.md)
 3. ___ you ___ (push) the code?
 4. He ___ (make) a mistake.
 
-**Answers:** 1. **wrote** · 2. **didn't finish** · 3. **Did … push** · 4. **made**
+<details>
+<summary>✅ Show answers</summary>
+
+1. **wrote** · 2. **didn't finish** · 3. **Did … push** · 4. **made**
+
+</details>
 
 ## 🎯 Daily mission
 Describe what you did yesterday at work in 5 past-tense sentences. Record it.

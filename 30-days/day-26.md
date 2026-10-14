@@ -11,11 +11,16 @@ Use present perfect for growth: "I've been **working on** improving my communica
 > and I've already improved a lot."
 
 ## ✍️ Exercise (say out loud, then check)
-1. "My main ___ is problem-solving." (strength)
-2. "A ___ I've been working on is time estimation." (weakness)
+1. "My main ___ is problem-solving."
+2. "A ___ I've been working on is time estimation."
 3. ❌ "I am working on it since months." → ✅ ___
 
-**Answers:** 1. **strength** · 2. **weakness** · 3. "I've been working on it **for** months."
+<details>
+<summary>✅ Show answers</summary>
+
+1. **strength** · 2. **weakness** · 3. "I've been working on it **for** months."
+
+</details>
 
 ## 🎯 Daily mission
 Record your real answer: 1 strength (with proof) + 1 weakness (with how you're improving it).

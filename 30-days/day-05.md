@@ -13,11 +13,16 @@ Then explain your real project out loud for 1 minute.
 
 ## ✍️ Exercise (say out loud, then check)
 Make it natural:
-1. "This class ___ (is doing the handling of / handles) the login."
-2. "I ___ (did / made) some changes to the config."
-3. "I work ___ (on / in) the payment module."
+1. "This class ___ the login."
+2. "I ___ some changes to the config."
+3. "I work ___ the payment module."
 
-**Answers:** 1. **handles** · 2. **made** · 3. **on**
+<details>
+<summary>✅ Show answers</summary>
+
+1. **handles** · 2. **made** · 3. **on**
+
+</details>
 
 ## 🎯 Daily mission
 Explain your current project to an imaginary new teammate for 60 seconds. Record it.

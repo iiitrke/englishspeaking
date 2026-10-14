@@ -12,11 +12,16 @@ Soften it: "I see your point, **but**…" instead of "No, that's wrong." Politen
 Full lesson: [B2 · Giving opinions & disagreeing](../levels/b2-fluency/02-giving-opinions.md)
 
 ## ✍️ Exercise (say out loud, then check)
-1. ❌ "No no, that is wrong." → ✅ (softer) ___
-2. "I'm a bit ___ that it'll be slow." (concerned)
-3. "___ we split this into two services?" (What if)
+1. ❌ "No no, that is wrong." → ✅ ___
+2. "I'm a bit ___ that it'll be slow."
+3. "___ we split this into two services?"
 
-**Answers:** 1. "I see it a little differently." / "I'm not sure that'll work because…" · 2. **concerned** · 3. **What if**
+<details>
+<summary>✅ Show answers</summary>
+
+1. "I see it a little differently." / "I'm not sure that'll work because…" · 2. **concerned** · 3. **What if**
+
+</details>
 
 ## 🎯 Daily mission
 Someone says "let's put all code in one class." Disagree politely out loud: acknowledge → concern → alternative.

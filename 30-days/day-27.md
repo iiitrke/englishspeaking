@@ -13,10 +13,15 @@ Full lesson: [B2 · Small talk](../levels/b2-fluency/04-small-talk.md)
 
 ## ✍️ Exercise (say out loud, then check)
 1. ❌ "What is your good name?" → ✅ ___
-2. "How's it ___ ?" (going)
-3. "Anyway, shall we get ___ ?" (started)
+2. "How's it ___ ?"
+3. "Anyway, shall we get ___ ?"
 
-**Answers:** 1. "What's your name?" · 2. **going** · 3. **started**
+<details>
+<summary>✅ Show answers</summary>
+
+1. "What's your name?" · 2. **going** · 3. **started**
+
+</details>
 
 ## 🎯 Daily mission
 Record a 20-second small-talk exchange (both roles), ending with "Anyway, shall we get started?".

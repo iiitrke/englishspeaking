@@ -14,12 +14,17 @@
 Full lesson: [Grammar · Present simple vs continuous](../grammar/02-present-simple-vs-continuous.md)
 
 ## ✍️ Exercise (say out loud, then check)
-1. I ___ (have / am having) two monitors.
-2. She ___ (know / is knowing) the fix.
-3. Right now the team ___ (works / is working) on it.
-4. We ___ (deploy / are deploying) every Friday.
+1. I ___ two monitors.
+2. She ___ the fix.
+3. Right now the team ___ on it.
+4. We ___ every Friday.
 
-**Answers:** 1. **have** · 2. **knows** · 3. **is working** · 4. **deploy**
+<details>
+<summary>✅ Show answers</summary>
+
+1. **have** · 2. **knows** · 3. **is working** · 4. **deploy**
+
+</details>
 
 ## 🎯 Daily mission
 Say 5 facts about yourself with state verbs: "I have…", "I know…", "I like…", "I want…", "I need…".
