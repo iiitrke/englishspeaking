@@ -1,0 +1,18 @@
+# GitHub Pages (Jekyll) configuration
+# This turns the Markdown files in this repo into a free website.
+title: English Speaking Course for Developers
+description: >-
+  A practical, speaking-first English course for Hindi-speaking software
+  developers who want to break the communication barrier in their career.
+theme: jekyll-theme-cayman   # clean built-in GitHub Pages theme
+show_downloads: false
+
+# Make links/paths behave nicely
+markdown: kramdown
+# baseurl is set automatically by GitHub Pages for project sites.
+
+# Files/folders Jekyll should ignore when building the site
+exclude:
+  - .kiro/
+  - CONTRIBUTING.md
+  - README.md   # we use index.md as the website home instead
